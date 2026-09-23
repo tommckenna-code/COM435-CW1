@@ -2,14 +2,14 @@
 # COM435-CW1
 
 ```
-COM435_Group17, Software Product and Process Management CW1 Layout By Sean, Robert, Simon, Tom 
+COM435_Group17, Software Product and Process Management CW1 Plan Layout/Structure By Sean, Robert, Simon, Tom 
 │
-├── Website/
+├── Software Product Plann/
 │   ├── Initial Team Meeting / Working Agreement      
 │   ├── Miro Templates / Project overview / Research
 │   ├── Establish preferred pathway (sports management system)
-│   ├── Documentation 
-│   ├── Peer report/assessment
+│   ├── Documentation (Needs Assessment along with a product spirt plan)
+│   ├── Peer report/Feedback
 │   │
 │   ├── /
 │   │   └── Upload       
