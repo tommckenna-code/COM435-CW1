@@ -4,7 +4,7 @@
 ```
 COM435_Group17, Software Product and Process Management CW1 Plan Layout/Structure By Sean, Robert, Simon, Tom 
 │
-├── Software Product Plann/
+├── Software Product Plan/
 │   ├── Initial Team Meeting / Working Agreement      
 │   ├── Miro Templates / Project overview / Research
 │   ├── Establish preferred pathway (sports management system)
